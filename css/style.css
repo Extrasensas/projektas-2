@@ -1,0 +1,113 @@
+p{
+	color: red;
+	text-align: center;
+	font-size: 4em;
+	text-align: center; /*left right center justify*/
+}
+article{
+	color: black;
+	text-align: center;
+}
+header h1{
+	font-family: 'Bungee Spice', cursive;
+	text text-align: center;
+}
+h2{
+	text-transform: uppercase;
+	text-align: ;
+	background: yellowgreen;
+	font-family: 'Blaka Ink', cursive;
+}
+h3{
+	text-align: center;
+	background-color: yellowgreen;
+}
+h4{
+	text-align: center;
+	background-color: yellowgreen;
+}
+h5{
+	text-align: center;
+}
+#vip{ /* ID selectorius */
+	color: black;
+}
+.super{
+	font-size: 2em;
+}
+a{
+	color:  pink;
+}
+a[href="https: //kitm.lt/"]{
+	color:  darkred;
+}
+a[href="https://www.delfi.lt/"]{
+	color:  darkgreen;
+}
+a[href="https://www.15min.lt/"]{
+	color:  darkblue;
+}
+ul{
+	text-align: center;
+	background: lightgray;
+}
+a[href$=".pdf"]{
+	color:  green;
+}
+a[href$=".xlsx"]{
+	color:  yellow;
+}
+a[href$=".ppt"]{
+	color:  black;
+}
+a:hover{ /* Pseudo klases selektorius */
+	color:  black;
+}
+ul :nth-child(even) a{
+	background:  pink;
+}
+
+}
+.documentlist ul li{
+	backround-color: green;
+}
+.catalog ul>li{
+	color: blue;
+}
+.catalaog ul>li>ul>li{
+	color: green;
+}
+p{
+	font-size: 1.2em;
+	font-family: 'Aref Ruqaa Ink', serif;
+}
+.bold-text{
+	font-weight: bold;
+}
+p::first-letter{
+	font-size: 1.5em;
+}
+.fa-bolt{
+	color: lightgoldenrodyellow;
+	font-size: 1.2em;
+}
+.rightside{
+	max-width: 49%;
+	display: inline-block;
+}
+.leftside{
+	max-width: 49%;
+	display: inline-block;
+}
+.container{
+	background: #eeff88 url('../img/fotke.jpeg')
+}
+.body{
+	background-color: rgb(120,200,80);
+}
+s
+}
+}
+
+
+
